@@ -1,0 +1,37 @@
+# Android Studio и IDE
+.idea/
+*.iml
+.gradle/
+local.properties
+*.log
+.kotlinc/
+*.hprof
+captures/
+
+# Кэш билдов и зависимости
+/build/
+.cxx/
+.externalNativeBuild/
+*/build/
+*/bin/
+*/obj/
+*.class
+
+# Gradle файлы
+.gradle/
+gradlew
+gradlew.bat
+gradle.properties
+gradle/
+
+# IntelliJ IDEA
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+
+# Кэш тестов и сессий
+/test-results/
+out/
